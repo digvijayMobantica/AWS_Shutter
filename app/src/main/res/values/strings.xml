@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Shutter</string>
+    <string name="hostDiscovery">Discover Hosts</string>
+    <string name="wifiDisabled">WiFi not enabled</string>
+    <string name="notConnectedWifi">You\'re not connected to a WiFi network!</string>
+    <string name="failedWifiManager">Failed to get WifiManager for this device</string>
+    <string name="failedSubnetHosts">Failed to get the number of hosts in subnet</string>
+    <string name="hostScan">Scanning For Hosts</string>
+    <string name="subnetHosts">%1$d hosts in your subnet</string>
+    <string name="title_location_permission">Location Permission</string>
+    <string name="text_location_permission">Allow to access Location?</string>
+    <string name="ok">Ok</string>
+    <string name="title_storage_permission">Storage Permission</string>
+    <string name="text_storage_permission">Allow to access Media?</string>
+</resources>
